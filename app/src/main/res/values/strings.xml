@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">UAS AKB IF-1 10119038</string>
+
+    <!-- string of activity_splash.xml -->
+    <string name="splash_img">Logo Splash Screen</string>
+    <string name="splash_title">CatatanKu</string>
+    <string name="splash_subtitle">Catat Kegiatan Sehari-hari anda.</string>
+
+    <!-- string of layout_rows.xml -->
+    <string name="layout_title">Example</string>
+    <string name="layout_hapus">Hapus</string>
+
+    <!-- string of layout_item.xml -->
+    <string name="layout_vp_img">ViewPager Content Images</string>
+    <string name="layout_vp_btn">Lanjutkan</string>
+
+    <!-- judul di viewpager -->
+    <string name="title_1">Hiduplah Produktif</string>
+    <string name="title_2">Catat Kegiatan Harian Anda</string>
+
+    <!-- deskripsi di viewpager -->
+    <string name="desc_1">CatatanKu Bisa Membuat Anda Lebih Produktif</string>
+    <string name="desc_2">CatatanKu Bisa Mencatat Kegiatan Harian Anda</string>
+
+    <!-- string of activity_login.xml -->
+    <string name="login_img_logo">Login Logo Image</string>
+    <string name="login_img_title">Login Pengguna</string>
+    <string name="login_txt_email">Email</string>
+    <string name="login_txt_password">Password</string>
+    <string name="login_btn_signIn">Login</string>
+    <string name="login_btn_signUp">Register Now</string>
+    <string name="login_txt_signUp">Belum Punya Akun?</string>
+
+    <!-- string of activity_register.xml -->
+    <string name="register_img_logo">Register Logo Image</string>
+    <string name="register_img_title">Register Pengguna</string>
+    <string name="register_txt_email">Email</string>
+    <string name="register_txt_password">Password</string>
+    <string name="register_btn_signIn">Back to Login</string>
+    <string name="register_btn_signUp">Register Now</string>
+    <string name="register_txt_signIn">Sudah Punya Akun?</string>
+</resources>
