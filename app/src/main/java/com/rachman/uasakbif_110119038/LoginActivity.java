@@ -60,6 +60,7 @@ public class LoginActivity extends AppCompatActivity {
     }
 
     private void login(String email, String password) {
+        progressDialog.show();
         mAuth.signInWithEmailAndPassword(email, password).addOnCompleteListener(new OnCompleteListener<AuthResult>() {
             @Override
             public void onComplete(@NonNull Task<AuthResult> task) {
